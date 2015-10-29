@@ -1,5 +1,4 @@
 <?php
-
 // Get cURL resource
 $curl = curl_init();
 
